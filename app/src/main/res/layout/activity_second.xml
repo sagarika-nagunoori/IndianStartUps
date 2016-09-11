@@ -7,18 +7,12 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.halya.indianstartups.MainActivity">
+    tools:context="com.example.halya.indianstartups.SecondActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:layout_centerInParent="true"
-        android:textSize="30dp"/>
+        android:text="we are in second"
+        android:layout_centerInParent="true"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="click"
-        android:id="@+id/click"/>
 </RelativeLayout>
